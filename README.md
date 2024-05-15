@@ -58,6 +58,27 @@ The results of the model training and evaluation are summarized as follows:
   - Precision: 0.83
   - Recall: 0.84
   - F1-score: 0.83
+ 
+  Based on the evaluation metrics, the Random Forest model achieved the highest accuracy and F1-score, making it the best-performing model for this HAR dataset.
+  
+  ## User Guide
+---
+To use this project, follow the steps below:
+
+1. Clone the repository: git clone https://github.com/UzairMajid/Human-Activity-Recognition
+
+2. Install the required dependencies: pip install -r requirements.txt
+
+3. Download the dataset from here https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+4. Run the mentioned notebook
+
+## Contact Information
+---
+For any questions, suggestions, or issues, please feel free to contact:
+
+Name: Uzair Majid
+
+Email: majid@uni-potsdam.de
 
 Based on the evaluation metrics, the Random Forest model achieved the highest accuracy and F1-score, making it the best-performing model for this HAR dataset.
 
