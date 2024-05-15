@@ -80,8 +80,5 @@ Name: Uzair Majid
 
 Email: majid@uni-potsdam.de
 
-Based on the evaluation metrics, the Random Forest model achieved the highest accuracy and F1-score, making it the best-performing model for this HAR dataset.
 
-## Dependencies
-To run this project, you need the following dependencies:
 
